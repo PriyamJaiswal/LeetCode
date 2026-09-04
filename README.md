@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/PriyamJaiswal/LeetCode/tree/master/0056-merge-intervals) |
 | [0503-next-greater-element-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/PriyamJaiswal/LeetCode/tree/master/0739-daily-temperatures) |
 | [0986-interval-list-intersections](https://github.com/PriyamJaiswal/LeetCode/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyamJaiswal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/PriyamJaiswal/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -44,4 +46,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/PriyamJaiswal/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
