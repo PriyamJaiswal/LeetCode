@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PriyamJaiswal/LeetCode/tree/master/0056-merge-intervals) |
+| [0503-next-greater-element-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0986-interval-list-intersections](https://github.com/PriyamJaiswal/LeetCode/tree/master/0986-interval-list-intersections) |
 ## Sorting
 |  |
@@ -33,9 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyamJaiswal/LeetCode/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyamJaiswal/LeetCode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
