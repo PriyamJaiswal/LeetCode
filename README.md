@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PriyamJaiswal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/PriyamJaiswal/LeetCode/tree/master/0056-merge-intervals) |
 | [0503-next-greater-element-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/PriyamJaiswal/LeetCode/tree/master/0739-daily-temperatures) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PriyamJaiswal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/PriyamJaiswal/LeetCode/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
