@@ -12,67 +12,45 @@ class Solution {
 
     public ListNode reverseKGroup(ListNode head, int k) {
 
-        if (head == null) {
-            return head;
-        }
-
+        if( head == null) return head;
         ListNode left = head;
-        ListNode prevLeft = null;
+        ListNode right;
         ListNode res = null;
+        ListNode prevLeft = null;
 
-        while (true) {
+        while(true){
 
-            // Find the kth node
-            ListNode right = left;
+            right = left;        // Find the kth node
+            for(int i=0; i<(k-1); i++){
+                if(right == null) break; // Less than k nodes remaining
+                right=right.next;
 
-            for (int i = 0; i < k - 1; i++) {
-
-                if (right == null) {
-                    break;
-                }
-
-                right = right.next;
-            }
-
-            // Less than k nodes remaining
-            if (right == null) {
+            } 
+            if(right != null){
+                ListNode nextLeft = right.next;   // Save the node after the current group
+                reverse(left,k);                  //call reverse function
+                
+                if(prevLeft != null) prevLeft.next = right;
+                prevLeft = left;
+                left = nextLeft;
+                if(res == null) res = right;   
+            } else {
+                if(prevLeft != null) prevLeft.next = left;
+                if(res == null) res = left;
                 break;
             }
-
-            // Save the node after the current group
-            ListNode next = right.next;
-
-            // Reverse k nodes
-            ListNode curr = left;
-            ListNode prev = next;
-
-            for (int i = 0; i < k; i++) {
-
-                ListNode temp = curr.next;
-
-                curr.next = prev;
-
-                prev = curr;
-                curr = temp;
-            }
-
-            // First reversed group becomes result head
-            if (res == null) {
-                res = prev;
-            }
-
-            // Connect previous group to current reversed group
-            if (prevLeft != null) {
-                prevLeft.next = prev;
-            }
-
-            // left is now the last node of reversed group
-            prevLeft = left;
-
-            // Move to next group
-            left = next;
         }
-
         return res;
+    }
+
+    public void reverse(ListNode head, int times){
+        ListNode curr = head;
+        ListNode prev = null;
+        while(times --> 0){
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
     }
 }
