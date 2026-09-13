@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PriyamJaiswal/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/PriyamJaiswal/LeetCode/tree/master/0056-merge-intervals) |
 | [0503-next-greater-element-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/PriyamJaiswal/LeetCode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/PriyamJaiswal/LeetCode/tree/master/0739-daily-temperatures) |
 | [0986-interval-list-intersections](https://github.com/PriyamJaiswal/LeetCode/tree/master/0986-interval-list-intersections) |
 ## Sorting
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/PriyamJaiswal/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/PriyamJaiswal/LeetCode/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/PriyamJaiswal/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
