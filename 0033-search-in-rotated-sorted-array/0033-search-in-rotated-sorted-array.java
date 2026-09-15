@@ -13,19 +13,19 @@ class Solution {
 
             if(a[guess] == k) return guess;
 
-            if(a[guess] > a[n-1]){          
+            if(a[guess] > a[n-1]){      //part 1    
 
-                if(a[guess] < k) low = guess+1;
+                if(a[guess] < k) low = guess+1; //move right side
                 else{
-                 if(a[0] > k) low = guess+1;
-                 else high = guess-1;
+                 if(a[0] > k) low = guess+1;    //move right side
+                 else high = guess-1;           //move left side
                 }
-            }else{
+            }else{                      //part 2 
 
-                if(a[guess] > k) high = guess-1;
+                if(a[guess] > k) high = guess-1;  //move left side
                 else{
-                 if(a[n-1] < k) high = guess-1;
-                 else low = guess+1;
+                 if(a[n-1] < k) high = guess-1;   //move left side
+                 else low = guess+1;              //move right side
                 }
             }
         }
