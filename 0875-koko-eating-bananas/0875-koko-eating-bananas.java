@@ -1,15 +1,19 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int[] a = piles;
-        int n = piles.length;
+        int[] arr = piles;
+        int n = arr.length;
 
         int low = 1;
-        int high = max(a);
+        int high = 0;
+        for (int a : arr) {
+            high = Math.max(high, a);
+        }
+
         int res = -1;
 
         while(low <= high){
             int guess = (low+high)/2;
-            long kokoHr = findHour(a,n,guess);
+            long kokoHr = findHour(arr,n,guess);
 
             if(kokoHr > h) low=guess+1;
             else {
@@ -27,14 +31,5 @@ class Solution {
             if(a[i] % speed != 0) h++;
         }
         return h;
-    }
-
-
-    public int max(int[] a){
-        int res = 0;
-        for(int i=0; i < a.length; i++){
-          res = Math.max(res,a[i]);  
-        }
-        return res;
     }
 }
