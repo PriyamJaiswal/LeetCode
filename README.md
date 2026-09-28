@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PriyamJaiswal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PriyamJaiswal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/PriyamJaiswal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/PriyamJaiswal/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quicksort
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/PriyamJaiswal/LeetCode/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/PriyamJaiswal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyamJaiswal/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/PriyamJaiswal/LeetCode/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/PriyamJaiswal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyamJaiswal/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Queue
 |  |
@@ -95,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PriyamJaiswal/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/PriyamJaiswal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyamJaiswal/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/PriyamJaiswal/LeetCode/tree/master/0409-longest-palindrome) |
+| [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
 ## Linked List
 |  |
 | ------- |
@@ -149,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PriyamJaiswal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PriyamJaiswal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/PriyamJaiswal/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/PriyamJaiswal/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
