@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PriyamJaiswal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/PriyamJaiswal/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/PriyamJaiswal/LeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/PriyamJaiswal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/PriyamJaiswal/LeetCode/tree/master/0704-binary-search) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PriyamJaiswal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PriyamJaiswal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/PriyamJaiswal/LeetCode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/PriyamJaiswal/LeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/PriyamJaiswal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PriyamJaiswal/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/PriyamJaiswal/LeetCode/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/PriyamJaiswal/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/PriyamJaiswal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyamJaiswal/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PriyamJaiswal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/PriyamJaiswal/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/PriyamJaiswal/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/PriyamJaiswal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/PriyamJaiswal/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/PriyamJaiswal/LeetCode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/PriyamJaiswal/LeetCode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/PriyamJaiswal/LeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
 ## Linked List
@@ -163,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PriyamJaiswal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PriyamJaiswal/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/PriyamJaiswal/LeetCode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/PriyamJaiswal/LeetCode/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/PriyamJaiswal/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/PriyamJaiswal/LeetCode/tree/master/0767-reorganize-string) |
