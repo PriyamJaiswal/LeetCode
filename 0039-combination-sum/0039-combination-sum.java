@@ -14,7 +14,7 @@ class Solution {
     void fun(int[] a, int n, int i, List<Integer> diary, int sum, List<List<Integer>> res, int k){
 
         if(i == n) {
-            if(sum == k){
+            if(sum == k){                        //Base case
                 res.add(new ArrayList<>(diary));
             }
             return;
