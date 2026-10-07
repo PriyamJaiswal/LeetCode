@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/PriyamJaiswal/LeetCode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/PriyamJaiswal/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/PriyamJaiswal/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0136-single-number](https://github.com/PriyamJaiswal/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PriyamJaiswal/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyamJaiswal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PriyamJaiswal/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/PriyamJaiswal/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/PriyamJaiswal/LeetCode/tree/master/0039-combination-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PriyamJaiswal/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
