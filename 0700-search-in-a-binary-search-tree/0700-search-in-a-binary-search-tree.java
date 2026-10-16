@@ -31,7 +31,8 @@ class Solution {
         }
 
         if(node.val > k) fun(node.left, k);
-        else fun(node.right, k);
+        
+          else fun(node.right, k);
         
         return ans; 
     }
