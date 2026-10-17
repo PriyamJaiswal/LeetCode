@@ -26,12 +26,14 @@ class Solution {
 
         sum += root.val;
         diary.add(root.val);
-        if(root.left==null && root.right==null){
-            if(sum == k)  res.add(new ArrayList<>(diary));;
+
+       if (root.left == null && root.right == null) {
+        if (sum == k) 
+            res.add(new ArrayList<>(diary));
             
         }
-        fun(root.left, sum, diary, res, k);
-        fun(root.right, sum, diary, res, k);
-        diary.remove(diary.size() - 1);
+         fun(root.left, sum, diary, res, k);
+         fun(root.right, sum, diary, res, k);
+         diary.remove(diary.size() - 1);
     }
 }
