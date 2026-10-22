@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PriyamJaiswal/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/PriyamJaiswal/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PriyamJaiswal/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PriyamJaiswal/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/PriyamJaiswal/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PriyamJaiswal/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PriyamJaiswal/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/PriyamJaiswal/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/PriyamJaiswal/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/PriyamJaiswal/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/PriyamJaiswal/LeetCode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/PriyamJaiswal/LeetCode/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PriyamJaiswal/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
